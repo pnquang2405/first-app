@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 export default function Home() {
   return (
     <div className="space-y-6">
-      <h1 className="text-3xl font-bold">Hello Next.js + Tailwind + Shadcn UI 🚀</h1>
+      <h1 className="text-3xl font-bold">Hello 🚀</h1>
 
       <Button>Click me</Button>
 
